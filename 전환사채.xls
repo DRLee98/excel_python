@@ -1,0 +1,1440 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">1253</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-16 10:11</td>
+ 
+	
+	
+		<td>셀젠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">258250</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제1회차)</td>
+		<td>셀젠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1252</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 18:20</td>
+ 
+	
+	
+		<td>웨스트라이즈</td>
+		<td style="mso-number-format:'@';text-align:center;">064090</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제22회차)</td>
+		<td>웨스트라이즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1251</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:45</td>
+ 
+	
+	
+		<td>미스터블루</td>
+		<td style="mso-number-format:'@';text-align:center;">207760</td>
+	
+
+		<td>자기 전환사채 매도 결정</td>
+		<td>미스터블루</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1250</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:36</td>
+ 
+	
+	
+		<td>모아데이타</td>
+		<td style="mso-number-format:'@';text-align:center;">288980</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제6회차)</td>
+		<td>모아데이타</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1249</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:07</td>
+ 
+	
+	
+		<td>켄코아에어로스페이스</td>
+		<td style="mso-number-format:'@';text-align:center;">274090</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>켄코아에어로스페이스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1248</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:04</td>
+ 
+	
+	
+		<td>다산솔루에타</td>
+		<td style="mso-number-format:'@';text-align:center;">154040</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>다산솔루에타</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1247</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:00</td>
+ 
+	
+	
+		<td>뿌리깊은나무들</td>
+		<td style="mso-number-format:'@';text-align:center;">266170</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>뿌리깊은나무들</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1246</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 16:25</td>
+ 
+	
+	
+		<td>꿈비</td>
+		<td style="mso-number-format:'@';text-align:center;">407400</td>
+	
+
+		<td>전환사채권발행결정(제1회차)</td>
+		<td>꿈비</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1245</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 16:16</td>
+ 
+	
+	
+		<td>비비안</td>
+		<td style="mso-number-format:'@';text-align:center;">002070</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>비비안</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1244</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 15:48</td>
+ 
+	
+	
+		<td>금호전기</td>
+		<td style="mso-number-format:'@';text-align:center;">001210</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>자기 전환사채 매도 결정</td>
+		<td>금호전기</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1243</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 15:35</td>
+ 
+	
+	
+		<td>러셀</td>
+		<td style="mso-number-format:'@';text-align:center;">217500</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>러셀</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1242</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 15:02</td>
+ 
+	
+	
+		<td>아이즈비전</td>
+		<td style="mso-number-format:'@';text-align:center;">031310</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>아이즈비전</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1241</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 14:24</td>
+ 
+	
+	
+		<td>디바이스이엔지</td>
+		<td style="mso-number-format:'@';text-align:center;">187870</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>디바이스이엔지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1240</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 08:16</td>
+ 
+	
+	
+		<td>엔터파트너즈</td>
+		<td style="mso-number-format:'@';text-align:center;">058450</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제4회차)</td>
+		<td>엔터파트너즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1239</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 08:13</td>
+ 
+	
+	
+		<td>엔터파트너즈</td>
+		<td style="mso-number-format:'@';text-align:center;">058450</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제5회차)</td>
+		<td>엔터파트너즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1238</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 17:54</td>
+ 
+	
+	
+		<td>미스터블루</td>
+		<td style="mso-number-format:'@';text-align:center;">207760</td>
+	
+
+		<td>자기 전환사채 매도 결정</td>
+		<td>미스터블루</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1237</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 17:09</td>
+ 
+	
+	
+		<td>에이치앤비디자인</td>
+		<td style="mso-number-format:'@';text-align:center;">227100</td>
+	
+
+		<td>소송등의제기(전환사채 발행효력 정지 및 금지 등 가처분)</td>
+		<td>에이치앤비디자인</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1236</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 16:13</td>
+ 
+	
+	
+		<td>라이온켐텍</td>
+		<td style="mso-number-format:'@';text-align:center;">171120</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제1회차)</td>
+		<td>라이온켐텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1235</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 16:09</td>
+ 
+	
+	
+		<td>손오공</td>
+		<td style="mso-number-format:'@';text-align:center;">066910</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제11회차)</td>
+		<td>손오공</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1234</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 15:35</td>
+ 
+	
+	
+		<td>삼일</td>
+		<td style="mso-number-format:'@';text-align:center;">032280</td>
+	
+
+		<td>전환사채권발행결정(제6회차)</td>
+		<td>삼일</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1233</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-11 17:45</td>
+ 
+	
+	
+		<td>아이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">119830</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제5회차)</td>
+		<td>아이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1232</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-11 17:11</td>
+ 
+	
+	
+		<td>화일약품</td>
+		<td style="mso-number-format:'@';text-align:center;">061250</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제1회차)</td>
+		<td>화일약품</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1231</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-11 16:46</td>
+ 
+	
+	
+		<td>미스터블루</td>
+		<td style="mso-number-format:'@';text-align:center;">207760</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>미스터블루</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1230</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-11 14:58</td>
+ 
+	
+	
+		<td>오건에코텍</td>
+		<td style="mso-number-format:'@';text-align:center;">212310</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제6회차)</td>
+		<td>오건에코텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1229</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:45</td>
+ 
+	
+	
+		<td>디에이테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">196490</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>자기 전환사채 매도 결정</td>
+		<td>디에이테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1228</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:34</td>
+ 
+	
+	
+		<td>덕산테코피아</td>
+		<td style="mso-number-format:'@';text-align:center;">317330</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>덕산테코피아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1227</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:06</td>
+ 
+	
+	
+		<td>플래스크</td>
+		<td style="mso-number-format:'@';text-align:center;">041590</td>
+	
+
+		<td>기타 주요경영사항(제22회 전환사채 발행결정 철회)</td>
+		<td>플래스크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1226</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:05</td>
+ 
+	
+	
+		<td>플래스크</td>
+		<td style="mso-number-format:'@';text-align:center;">041590</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제22회차-철회)</td>
+		<td>플래스크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1225</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:04</td>
+ 
+	
+	
+		<td>플래스크</td>
+		<td style="mso-number-format:'@';text-align:center;">041590</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>플래스크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1224</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 17:03</td>
+ 
+	
+	
+		<td>플래스크</td>
+		<td style="mso-number-format:'@';text-align:center;">041590</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>플래스크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1223</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 14:43</td>
+ 
+	
+	
+		<td>에이스토리</td>
+		<td style="mso-number-format:'@';text-align:center;">241840</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>에이스토리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1222</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-09 14:13</td>
+ 
+	
+	
+		<td>티엔엔터테인먼트</td>
+		<td style="mso-number-format:'@';text-align:center;">131100</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제25회차)</td>
+		<td>티엔엔터테인먼트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1221</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 17:39</td>
+ 
+	
+	
+		<td>제테마</td>
+		<td style="mso-number-format:'@';text-align:center;">216080</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>제테마</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1220</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 17:36</td>
+ 
+	
+	
+		<td>뷰노</td>
+		<td style="mso-number-format:'@';text-align:center;">338220</td>
+	
+
+		<td>추가상장(국내사모 전환사채 전환)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1219</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 17:34</td>
+ 
+	
+	
+		<td>EDGC</td>
+		<td style="mso-number-format:'@';text-align:center;">245620</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>이원다이애그노믹스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1218</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 16:52</td>
+ 
+	
+	
+		<td>디케이티</td>
+		<td style="mso-number-format:'@';text-align:center;">290550</td>
+	
+
+		<td>추가상장(국내사모 전환사채 전환)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1217</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 16:27</td>
+ 
+	
+	
+		<td>인화정공</td>
+		<td style="mso-number-format:'@';text-align:center;">101930</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제1회차)</td>
+		<td>인화정공</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1216</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 16:06</td>
+ 
+	
+	
+		<td>드림시큐리티</td>
+		<td style="mso-number-format:'@';text-align:center;">203650</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>드림시큐리티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1215</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 15:34</td>
+ 
+	
+	
+		<td>엔바이오니아</td>
+		<td style="mso-number-format:'@';text-align:center;">317870</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>엔바이오니아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1214</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 15:14</td>
+ 
+	
+	
+		<td>윈하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">192390</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>윈하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1213</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 15:09</td>
+ 
+	
+	
+		<td>NEW</td>
+		<td style="mso-number-format:'@';text-align:center;">160550</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>넥스트엔터테인먼트월드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1212</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-08 13:38</td>
+ 
+	
+	
+		<td>아이엘사이언스</td>
+		<td style="mso-number-format:'@';text-align:center;">307180</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>아이엘사이언스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1211</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 18:11</td>
+ 
+	
+	
+		<td>디에이테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">196490</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>소송등의제기(전환사채매각효력정지 등 가처분)</td>
+		<td>디에이테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1210</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 17:38</td>
+ 
+	
+	
+		<td>볼빅</td>
+		<td style="mso-number-format:'@';text-align:center;">206950</td>
+	
+
+		<td>전환사채(해외전환사채 포함) 발행후 만기전 사채 취득(제6회차)</td>
+		<td>볼빅</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1209</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 17:33</td>
+ 
+	
+	
+		<td>에이프로젠</td>
+		<td style="mso-number-format:'@';text-align:center;">007460</td>
+	
+
+		<td>자기 전환사채 매도 결정</td>
+		<td>에이프로젠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1208</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 17:26</td>
+ 
+	
+	
+		<td>볼빅</td>
+		<td style="mso-number-format:'@';text-align:center;">206950</td>
+	
+
+		<td>전환사채(해외전환사채 포함) 발행후 만기전 사채 취득</td>
+		<td>볼빅</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1207</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 16:57</td>
+ 
+	
+	
+		<td>대양금속</td>
+		<td style="mso-number-format:'@';text-align:center;">009190</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>자기 전환사채 매도 결정</td>
+		<td>대양금속</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1206</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 16:36</td>
+ 
+	
+	
+		<td>에이치앤비디자인</td>
+		<td style="mso-number-format:'@';text-align:center;">227100</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제11회차)</td>
+		<td>에이치앤비디자인</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1205</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 15:57</td>
+ 
+	
+	
+		<td>이엠앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">083470</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제13회차)</td>
+		<td>이엠앤아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1204</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 15:35</td>
+ 
+	
+	
+		<td>한송네오텍</td>
+		<td style="mso-number-format:'@';text-align:center;">226440</td>
+	
+
+		<td>기타 경영사항(자율공시)(자기사채(제3,4회차 전환사채 권면금액합계 25억원) 전량 소각 결정)</td>
+		<td>한송네오텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1203</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-05 13:52</td>
+ 
+	
+	
+		<td>이원컴포텍</td>
+		<td style="mso-number-format:'@';text-align:center;">088290</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제9회차)</td>
+		<td>이원컴포텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1202</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-04 17:00</td>
+ 
+	
+	
+		<td>아시아경제</td>
+		<td style="mso-number-format:'@';text-align:center;">127710</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제5회차)</td>
+		<td>아시아경제</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1201</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-04 16:11</td>
+ 
+	
+	
+		<td>리더스 기술투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019570</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제17회차)</td>
+		<td>리더스 기술투자</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1200</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-04 16:09</td>
+ 
+	
+	
+		<td>리더스 기술투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019570</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>리더스 기술투자</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1199</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-04 15:34</td>
+ 
+	
+	
+		<td>코어라인소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">384470</td>
+	
+
+		<td>증권 발행결과(자율공시)(제2회차 전환사채)</td>
+		<td>코어라인소프트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1198</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-03 18:20</td>
+ 
+	
+	
+		<td>켄코아에어로스페이스</td>
+		<td style="mso-number-format:'@';text-align:center;">274090</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제11회차)</td>
+		<td>켄코아에어로스페이스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1197</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-03 17:50</td>
+ 
+	
+	
+		<td>드림시큐리티</td>
+		<td style="mso-number-format:'@';text-align:center;">203650</td>
+	
+
+		<td>전환사채권발행결정(제3회차)</td>
+		<td>드림시큐리티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1196</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-03 16:17</td>
+ 
+	
+	
+		<td>다보링크</td>
+		<td style="mso-number-format:'@';text-align:center;">340360</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제2회차)</td>
+		<td>다보링크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1195</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-03 11:56</td>
+ 
+	
+	
+		<td>아이엠</td>
+		<td style="mso-number-format:'@';text-align:center;">101390</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제10회차)</td>
+		<td>아이엠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1194</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 17:58</td>
+ 
+	
+	
+		<td>디딤이앤에프</td>
+		<td style="mso-number-format:'@';text-align:center;">217620</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제10회차)</td>
+		<td>디딤이앤에프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1193</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 17:43</td>
+ 
+	
+	
+		<td>아이톡시</td>
+		<td style="mso-number-format:'@';text-align:center;">052770</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제15회차)</td>
+		<td>아이톡시</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1192</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 17:40</td>
+ 
+	
+	
+		<td>스피어파워</td>
+		<td style="mso-number-format:'@';text-align:center;">203690</td>
+	
+
+		<td>소송등의제기(전환사채발행 무효의 소)</td>
+		<td>스피어파워</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1191</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 17:15</td>
+ 
+	
+	
+		<td>에브리봇</td>
+		<td style="mso-number-format:'@';text-align:center;">270660</td>
+	
+
+		<td>증권 발행결과(자율공시)(제1회차 전환사채)</td>
+		<td>에브리봇</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1190</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 17:09</td>
+ 
+	
+	
+		<td>옵트론텍</td>
+		<td style="mso-number-format:'@';text-align:center;">082210</td>
+	
+
+		<td>추가상장(국내사모 전환사채 전환)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1189</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 16:48</td>
+ 
+	
+	
+		<td>코어라인소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">384470</td>
+	
+
+		<td>전환사채권발행결정(제2회차)</td>
+		<td>코어라인소프트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1188</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-02 15:36</td>
+ 
+	
+	
+		<td>옵트론텍</td>
+		<td style="mso-number-format:'@';text-align:center;">082210</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>옵트론텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1187</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 17:07</td>
+ 
+	
+	
+		<td>카카오게임즈</td>
+		<td style="mso-number-format:'@';text-align:center;">293490</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제1회차)</td>
+		<td>카카오게임즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1186</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 17:01</td>
+ 
+	
+	
+		<td>이엔플러스</td>
+		<td style="mso-number-format:'@';text-align:center;">074610</td>
+	
+
+		<td>자기 전환사채 매도 결정</td>
+		<td>이엔플러스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1185</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 16:58</td>
+ 
+	
+	
+		<td>아이엠</td>
+		<td style="mso-number-format:'@';text-align:center;">101390</td>
+	
+
+		<td>소송등의제기(전환권행사주식발행 및 상장금지 가처분신청 ,전환사채 처분금지 가처분신청)</td>
+		<td>아이엠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1184</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 16:48</td>
+ 
+	
+	
+		<td>이수앱지스</td>
+		<td style="mso-number-format:'@';text-align:center;">086890</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>이수앱지스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1183</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 16:10</td>
+ 
+	
+	
+		<td>신테카바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">226330</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제3회차)</td>
+		<td>신테카바이오</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1182</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 16:07</td>
+ 
+	
+	
+		<td>아이티센</td>
+		<td style="mso-number-format:'@';text-align:center;">124500</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제14회차)</td>
+		<td>아이티센</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1181</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 15:44</td>
+ 
+	
+	
+		<td>머큐리</td>
+		<td style="mso-number-format:'@';text-align:center;">100590</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>머큐리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1180</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 07:30</td>
+ 
+	
+	
+		<td>티에스넥스젠</td>
+		<td style="mso-number-format:'@';text-align:center;">043220</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제11회차)</td>
+		<td>티에스넥스젠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1179</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 18:03</td>
+ 
+	
+	
+		<td>룽투코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">060240</td>
+	
+
+		<td>전환사채권발행결정(제6회차)</td>
+		<td>룽투코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1178</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:50</td>
+ 
+	
+	
+		<td>티에스넥스젠</td>
+		<td style="mso-number-format:'@';text-align:center;">043220</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>자기 전환사채 매도 결정</td>
+		<td>티에스넥스젠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1177</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:40</td>
+ 
+	
+	
+		<td>더테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">043090</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득(제21회차)</td>
+		<td>더 테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1176</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:39</td>
+ 
+	
+	
+		<td>티에스넥스젠</td>
+		<td style="mso-number-format:'@';text-align:center;">043220</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>자기 전환사채 매도 결정</td>
+		<td>티에스넥스젠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1175</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:39</td>
+ 
+	
+	
+		<td>아스트</td>
+		<td style="mso-number-format:'@';text-align:center;">067390</td>
+	
+
+		<td>전환사채권발행결정(제12회차)</td>
+		<td>아스트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1174</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:30</td>
+ 
+	
+	
+		<td>아스트</td>
+		<td style="mso-number-format:'@';text-align:center;">067390</td>
+	
+
+		<td>전환사채권발행결정(제11회차)</td>
+		<td>아스트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1173</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 17:24</td>
+ 
+	
+	
+		<td>아스트</td>
+		<td style="mso-number-format:'@';text-align:center;">067390</td>
+	
+
+		<td>전환사채권발행결정(제10회차)</td>
+		<td>아스트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1172</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 16:52</td>
+ 
+	
+	
+		<td>피엔에이치테크</td>
+		<td style="mso-number-format:'@';text-align:center;">239890</td>
+	
+
+		<td>제3자의 전환사채매수선택권 행사</td>
+		<td>피엔에이치테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1171</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 16:31</td>
+ 
+	
+	
+		<td>에브리봇</td>
+		<td style="mso-number-format:'@';text-align:center;">270660</td>
+	
+
+		<td>전환사채권발행결정(제1회차)</td>
+		<td>에브리봇</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1170</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 16:25</td>
+ 
+	
+	
+		<td>성안</td>
+		<td style="mso-number-format:'@';text-align:center;">011300</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>성안</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1169</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 16:00</td>
+ 
+	
+	
+		<td>협진</td>
+		<td style="mso-number-format:'@';text-align:center;">138360</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제5회차)</td>
+		<td>협진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1168</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 15:43</td>
+ 
+	
+	
+		<td>케이피에스</td>
+		<td style="mso-number-format:'@';text-align:center;">256940</td>
+	
+
+		<td>전환사채(해외전환사채포함)발행후만기전사채취득</td>
+		<td>케이피에스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1167</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 15:27</td>
+ 
+	
+	
+		<td>인트로메딕</td>
+		<td style="mso-number-format:'@';text-align:center;">150840</td>
+	
+
+		<td>기타 경영사항(자율공시)(만기전 취득 제12회 무기명식 이권부 무보증 사모 전환사채 소각 결정의 건)</td>
+		<td>인트로메딕</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1166</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-29 07:30</td>
+ 
+	
+	
+		<td>이브이파킹서비스</td>
+		<td style="mso-number-format:'@';text-align:center;">419700</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제2회차)</td>
+		<td>이브이파킹서비스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1165</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-28 17:08</td>
+ 
+	
+	
+		<td>루트락</td>
+		<td style="mso-number-format:'@';text-align:center;">253610</td>
+	
+
+		<td>전환사채(해외전환사채 포함) 발행후 만기전 사채 취득(제1회차)</td>
+		<td>루트락</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1164</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-28 16:55</td>
+ 
+	
+	
+		<td>광무</td>
+		<td style="mso-number-format:'@';text-align:center;">029480</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제42회차)</td>
+		<td>광무</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1163</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-28 16:45</td>
+ 
+	
+	
+		<td>광무</td>
+		<td style="mso-number-format:'@';text-align:center;">029480</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제41회차)</td>
+		<td>광무</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1162</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-28 11:47</td>
+ 
+	
+	
+		<td>비엘</td>
+		<td style="mso-number-format:'@';text-align:center;">142760</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제11회차)</td>
+		<td>비엘</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1161</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 17:53</td>
+ 
+	
+	
+		<td>HLB테라퓨틱스</td>
+		<td style="mso-number-format:'@';text-align:center;">115450</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제16회차)</td>
+		<td>에이치엘비테라퓨틱스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1160</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 17:39</td>
+ 
+	
+	
+		<td>엠에프엠코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">323230</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제9회차)</td>
+		<td>엠에프엠코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1159</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 17:38</td>
+ 
+	
+	
+		<td>엠에프엠코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">323230</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제8회차)</td>
+		<td>엠에프엠코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1158</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 16:51</td>
+ 
+	
+	
+		<td>디에이테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">196490</td>
+	
+
+		<td>자기 전환사채 매도 결정</td>
+		<td>디에이테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1157</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 13:16</td>
+ 
+	
+	
+		<td>에이엔피</td>
+		<td style="mso-number-format:'@';text-align:center;">015260</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정</td>
+		<td>에이엔피</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1156</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-27 07:42</td>
+ 
+	
+	
+		<td>더코디</td>
+		<td style="mso-number-format:'@';text-align:center;">224060</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제9회차)</td>
+		<td>더코디</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1155</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-26 18:35</td>
+ 
+	
+	
+		<td>클리노믹스</td>
+		<td style="mso-number-format:'@';text-align:center;">352770</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제2회차)</td>
+		<td>클리노믹스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1154</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-26 18:35</td>
+ 
+	
+	
+		<td>클리노믹스</td>
+		<td style="mso-number-format:'@';text-align:center;">352770</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>전환사채권발행결정(제3회차)</td>
+		<td>클리노믹스</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

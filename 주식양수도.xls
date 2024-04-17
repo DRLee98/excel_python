@@ -1,0 +1,1356 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">94</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-16 07:51</td>
+ 
+	
+	
+		<td>지니틱스</td>
+		<td style="mso-number-format:'@';text-align:center;">303030</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>지니틱스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">93</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-16 07:48</td>
+ 
+	
+	
+		<td>제주맥주</td>
+		<td style="mso-number-format:'@';text-align:center;">276730</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>제주맥주</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">92</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 17:00</td>
+ 
+	
+	
+		<td>엔터파트너즈</td>
+		<td style="mso-number-format:'@';text-align:center;">058450</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엔터파트너즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">91</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 16:08</td>
+ 
+	
+	
+		<td>일승</td>
+		<td style="mso-number-format:'@';text-align:center;">333430</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">90</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-15 16:08</td>
+ 
+	
+	
+		<td>동방선기</td>
+		<td style="mso-number-format:'@';text-align:center;">099410</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">89</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-12 16:39</td>
+ 
+	
+	
+		<td>프리엠스</td>
+		<td style="mso-number-format:'@';text-align:center;">053160</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>프리엠스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">88</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-04 17:53</td>
+ 
+	
+	
+		<td>켄코아에어로스페이스</td>
+		<td style="mso-number-format:'@';text-align:center;">274090</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>켄코아에어로스페이스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">87</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 18:24</td>
+ 
+	
+	
+		<td>엔젠바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">354200</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엔젠바이오</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">86</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-04-01 11:09</td>
+ 
+	
+	
+		<td>해성티피씨</td>
+		<td style="mso-number-format:'@';text-align:center;">059270</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>해성티피씨</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">85</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-28 17:09</td>
+ 
+	
+	
+		<td>전진바이오팜</td>
+		<td style="mso-number-format:'@';text-align:center;">110020</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>전진바이오팜</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">84</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-26 19:51</td>
+ 
+	
+	
+		<td>상상인인더스트리</td>
+		<td style="mso-number-format:'@';text-align:center;">101000</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>상상인인더스트리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">83</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-26 14:58</td>
+ 
+	
+	
+		<td>다보링크</td>
+		<td style="mso-number-format:'@';text-align:center;">340360</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>다보링크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">82</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-22 17:23</td>
+ 
+	
+	
+		<td>해성티피씨</td>
+		<td style="mso-number-format:'@';text-align:center;">059270</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>해성티피씨</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">81</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-22 15:04</td>
+ 
+	
+	
+		<td>바이온</td>
+		<td style="mso-number-format:'@';text-align:center;">032980</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>바이온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">80</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-14 17:35</td>
+ 
+	
+	
+		<td>리더스 기술투자</td>
+		<td style="mso-number-format:'@';text-align:center;">019570</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>리더스 기술투자</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">79</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-13 17:59</td>
+ 
+	
+	
+		<td>넥스트아이</td>
+		<td style="mso-number-format:'@';text-align:center;">137940</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>넥스트아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">78</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-13 17:49</td>
+ 
+	
+	
+		<td>비엘</td>
+		<td style="mso-number-format:'@';text-align:center;">142760</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>비엘</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">77</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-12 18:08</td>
+ 
+	
+	
+		<td>비엘팜텍</td>
+		<td style="mso-number-format:'@';text-align:center;">065170</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>비엘팜텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">76</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-11 16:00</td>
+ 
+	
+	
+		<td>에이디엠코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">187660</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>에이디엠코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">75</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-11 15:45</td>
+ 
+	
+	
+		<td>디지캡</td>
+		<td style="mso-number-format:'@';text-align:center;">197140</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디지캡</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">74</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-03-08 17:51</td>
+ 
+	
+	
+		<td>에이치앤비디자인</td>
+		<td style="mso-number-format:'@';text-align:center;">227100</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>에이치앤비디자인</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">73</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-29 18:19</td>
+ 
+	
+	
+		<td>비투엔</td>
+		<td style="mso-number-format:'@';text-align:center;">307870</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>비투엔</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">72</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-29 18:12</td>
+ 
+	
+	
+		<td>폴라리스AI파마</td>
+		<td style="mso-number-format:'@';text-align:center;">041910</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>폴라리스에이아이파마</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">71</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-29 17:35</td>
+ 
+	
+	
+		<td>TS트릴리온</td>
+		<td style="mso-number-format:'@';text-align:center;">317240</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>티에스트릴리온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">70</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-29 15:08</td>
+ 
+	
+	
+		<td>SK매직</td>
+		<td style="mso-number-format:'@';text-align:center;">185450</td>
+	
+
+		<td>[채권]<font color='#FF8040'>[정정]</font>상장채권관련기타주요사항(영업양수도 양해각서(MOU) 체결)</td>
+		<td>SK매직</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">69</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-28 16:40</td>
+ 
+	
+	
+		<td>지엘팜텍</td>
+		<td style="mso-number-format:'@';text-align:center;">204840</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>지엘팜텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">68</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-26 17:21</td>
+ 
+	
+	
+		<td>디에이테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">196490</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디에이테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">67</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-19 17:38</td>
+ 
+	
+	
+		<td>메디프론</td>
+		<td style="mso-number-format:'@';text-align:center;">065650</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>메디프론디비티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">66</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-19 07:30</td>
+ 
+	
+	
+		<td>메디프론</td>
+		<td style="mso-number-format:'@';text-align:center;">065650</td>
+	
+
+		<td>주요사항보고서(중요한자산양수도결정(기타))</td>
+		<td>메디프론디비티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">65</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-16 16:56</td>
+ 
+	
+	
+		<td>메디프론</td>
+		<td style="mso-number-format:'@';text-align:center;">065650</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">64</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-02-02 18:57</td>
+ 
+	
+	
+		<td>이노시스</td>
+		<td style="mso-number-format:'@';text-align:center;">056090</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>이노시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">63</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-01-30 18:04</td>
+ 
+	
+	
+		<td>우리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">115440</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>우리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">62</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-01-15 17:18</td>
+ 
+	
+	
+		<td>레고켐바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">141080</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>레고켐바이오사이언스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">61</td>
+		<td style="mso-number-format:'@';text-align:center;">2024-01-11 16:35</td>
+ 
+	
+	
+		<td>율호</td>
+		<td style="mso-number-format:'@';text-align:center;">072770</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>율호</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">60</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-29 15:59</td>
+ 
+	
+	
+		<td>비엘헬스케어</td>
+		<td style="mso-number-format:'@';text-align:center;">086220</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>비엘헬스케어</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">59</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-28 15:05</td>
+ 
+	
+	
+		<td>디엔에프</td>
+		<td style="mso-number-format:'@';text-align:center;">092070</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디엔에프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">58</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-26 17:46</td>
+ 
+	
+	
+		<td>폴라리스AI</td>
+		<td style="mso-number-format:'@';text-align:center;">039980</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>폴라리스에이아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">57</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-26 16:13</td>
+ 
+	
+	
+		<td>아이톡시</td>
+		<td style="mso-number-format:'@';text-align:center;">052770</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>아이톡시</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">56</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-22 15:35</td>
+ 
+	
+	
+		<td>삼성제약</td>
+		<td style="mso-number-format:'@';text-align:center;">001360</td>
+	
+
+		<td>주요사항보고서(중요한자산양수도결정(기타))</td>
+		<td>삼성제약</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">55</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-21 15:40</td>
+ 
+	
+	
+		<td>씨엔티드림</td>
+		<td style="mso-number-format:'@';text-align:center;">286000</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>씨엔티드림</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">54</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-19 17:33</td>
+ 
+	
+	
+		<td>싸이토젠</td>
+		<td style="mso-number-format:'@';text-align:center;">217330</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>싸이토젠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">53</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-19 16:41</td>
+ 
+	
+	
+		<td>한울소재과학</td>
+		<td style="mso-number-format:'@';text-align:center;">091440</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>한울소재과학</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">52</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-07 07:36</td>
+ 
+	
+	
+		<td>이오플로우</td>
+		<td style="mso-number-format:'@';text-align:center;">294090</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>이오플로우</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">51</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-04 17:59</td>
+ 
+	
+	
+		<td>코센</td>
+		<td style="mso-number-format:'@';text-align:center;">009730</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">50</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-12-04 07:55</td>
+ 
+	
+	
+		<td>대창솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">096350</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>대창솔루션</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">49</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-30 16:37</td>
+ 
+	
+	
+		<td>오션브릿지</td>
+		<td style="mso-number-format:'@';text-align:center;">241790</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>오션브릿지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">48</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-28 17:46</td>
+ 
+	
+	
+		<td>DH오토리드</td>
+		<td style="mso-number-format:'@';text-align:center;">290120</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디에이치오토리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">47</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-27 17:34</td>
+ 
+	
+	
+		<td>엔지브이아이</td>
+		<td style="mso-number-format:'@';text-align:center;">093510</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엔지브이아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">46</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-21 17:28</td>
+ 
+	
+	
+		<td>엠캐피탈</td>
+		<td style="mso-number-format:'@';text-align:center;">046290</td>
+	
+
+		<td>[채권]<font color='#FF8040'>[정정]</font>주요사항보고서(중요한자산양수도결정(기타))</td>
+		<td>엠캐피탈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">45</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-20 13:31</td>
+ 
+	
+	
+		<td>메디아나</td>
+		<td style="mso-number-format:'@';text-align:center;">041920</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>메디아나</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">44</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-10 18:15</td>
+ 
+	
+	
+		<td>하인크코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">373200</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>하인크코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">43</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-10 17:41</td>
+ 
+	
+	
+		<td>YTN</td>
+		<td style="mso-number-format:'@';text-align:center;">040300</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>와이티엔</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">42</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-06 16:10</td>
+ 
+	
+	
+		<td>엠에프엠코리아</td>
+		<td style="mso-number-format:'@';text-align:center;">323230</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엠에프엠코리아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">41</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-11-01 17:38</td>
+ 
+	
+	
+		<td>씨씨에스</td>
+		<td style="mso-number-format:'@';text-align:center;">066790</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>씨씨에스충북방송</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">40</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-10-27 17:55</td>
+ 
+	
+	
+		<td>시스웍</td>
+		<td style="mso-number-format:'@';text-align:center;">269620</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>시스웍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">39</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-10-25 17:33</td>
+ 
+	
+	
+		<td>탑코미디어</td>
+		<td style="mso-number-format:'@';text-align:center;">134580</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">38</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-10-25 17:13</td>
+ 
+	
+	
+		<td>이오플로우</td>
+		<td style="mso-number-format:'@';text-align:center;">294090</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>이오플로우</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">37</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-27 14:37</td>
+ 
+	
+	
+		<td>ISC</td>
+		<td style="mso-number-format:'@';text-align:center;">095340</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>아이에스시</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">36</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-25 13:09</td>
+ 
+	
+	
+		<td>바이온</td>
+		<td style="mso-number-format:'@';text-align:center;">032980</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>바이온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">35</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-21 17:58</td>
+ 
+	
+	
+		<td>티엘아이</td>
+		<td style="mso-number-format:'@';text-align:center;">062860</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>티엘아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">34</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-19 19:25</td>
+ 
+	
+	
+		<td>DH오토리드</td>
+		<td style="mso-number-format:'@';text-align:center;">290120</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디에이치오토리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">33</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-13 16:17</td>
+ 
+	
+	
+		<td>바이온</td>
+		<td style="mso-number-format:'@';text-align:center;">032980</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>바이온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">32</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-11 19:01</td>
+ 
+	
+	
+		<td>파멥신</td>
+		<td style="mso-number-format:'@';text-align:center;">208340</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>파멥신</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">31</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-09-07 16:41</td>
+ 
+	
+	
+		<td>퀀타피아</td>
+		<td style="mso-number-format:'@';text-align:center;">078940</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>퀀타피아</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">30</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-29 16:35</td>
+ 
+	
+	
+		<td>우리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">115440</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>우리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">29</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-28 16:04</td>
+ 
+	
+	
+		<td>오하임앤컴퍼니</td>
+		<td style="mso-number-format:'@';text-align:center;">309930</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>오하임앤컴퍼니</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">28</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-22 16:33</td>
+ 
+	
+	
+		<td>씨큐브</td>
+		<td style="mso-number-format:'@';text-align:center;">101240</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>씨큐브</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">27</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-21 17:08</td>
+ 
+	
+	
+		<td>베셀</td>
+		<td style="mso-number-format:'@';text-align:center;">177350</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>베셀</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">26</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-17 15:48</td>
+ 
+	
+	
+		<td>케이엔더블유</td>
+		<td style="mso-number-format:'@';text-align:center;">105330</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>케이엔더블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">25</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-11 16:47</td>
+ 
+	
+	
+		<td>나노엔텍</td>
+		<td style="mso-number-format:'@';text-align:center;">039860</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>나노엔텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-07 11:48</td>
+ 
+	
+	
+		<td>손오공</td>
+		<td style="mso-number-format:'@';text-align:center;">066910</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>손오공</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-08-04 18:55</td>
+ 
+	
+	
+		<td>THE MIDONG</td>
+		<td style="mso-number-format:'@';text-align:center;">161570</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>더 미동</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-07-17 18:16</td>
+ 
+	
+	
+		<td>우리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">115440</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>우리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-07-12 17:48</td>
+ 
+	
+	
+		<td>나노엔텍</td>
+		<td style="mso-number-format:'@';text-align:center;">039860</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>나노엔텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-07-05 18:08</td>
+ 
+	
+	
+		<td>디딤이앤에프</td>
+		<td style="mso-number-format:'@';text-align:center;">217620</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>디딤이앤에프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-07-03 17:54</td>
+ 
+	
+	
+		<td>베셀</td>
+		<td style="mso-number-format:'@';text-align:center;">177350</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>베셀</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-30 16:40</td>
+ 
+	
+	
+		<td>나노엔텍</td>
+		<td style="mso-number-format:'@';text-align:center;">039860</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>나노엔텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-30 16:28</td>
+ 
+	
+	
+		<td>바이오로그디바이스</td>
+		<td style="mso-number-format:'@';text-align:center;">208710</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>바이오로그디바이스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-29 15:54</td>
+ 
+	
+	
+		<td>LS마린솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">060370</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엘에스마린솔루션</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-20 17:52</td>
+ 
+	
+	
+		<td>이아이디</td>
+		<td style="mso-number-format:'@';text-align:center;">093230</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>주요사항보고서(중요한자산양수도결정(기타))</td>
+		<td>이아이디</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-19 07:38</td>
+ 
+	
+	
+		<td>우리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">115440</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>우리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-12 17:14</td>
+ 
+	
+	
+		<td>디딤이앤에프</td>
+		<td style="mso-number-format:'@';text-align:center;">217620</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>디딤이앤에프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-12 16:17</td>
+ 
+	
+	
+		<td>윈텍</td>
+		<td style="mso-number-format:'@';text-align:center;">320000</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>윈텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-09 07:50</td>
+ 
+	
+	
+		<td>루트로닉</td>
+		<td style="mso-number-format:'@';text-align:center;">085370</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>루트로닉</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-07 17:44</td>
+ 
+	
+	
+		<td>우리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">115440</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>우리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-06-05 13:44</td>
+ 
+	
+	
+		<td>알에프세미</td>
+		<td style="mso-number-format:'@';text-align:center;">096610</td>
+	
+
+		<td>주요사항보고서(중요한자산양수도결정(기타))</td>
+		<td>알에프세미</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-23 17:40</td>
+ 
+	
+	
+		<td>미래산업</td>
+		<td style="mso-number-format:'@';text-align:center;">025560</td>
+	
+
+		<td>투자판단 관련 주요경영사항(최대주주 변경 수반 주식 및 경영권 양수도 계약 체결)</td>
+		<td>미래산업</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-17 07:51</td>
+ 
+	
+	
+		<td>엠아이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">179290</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식 양수도 계약 해제ㆍ취소 등</td>
+		<td>엠아이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-15 16:41</td>
+ 
+	
+	
+		<td>투비소프트</td>
+		<td style="mso-number-format:'@';text-align:center;">079970</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>투비소프트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-09 17:13</td>
+ 
+	
+	
+		<td>유니포인트</td>
+		<td style="mso-number-format:'@';text-align:center;">121060</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>유니포인트</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-08 18:07</td>
+ 
+	
+	
+		<td>엠투아이</td>
+		<td style="mso-number-format:'@';text-align:center;">347890</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>엠투아이코퍼레이션</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-05-04 18:56</td>
+ 
+	
+	
+		<td>윈텍</td>
+		<td style="mso-number-format:'@';text-align:center;">320000</td>
+	
+
+		<td>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>윈텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-04-27 17:38</td>
+ 
+	
+	
+		<td>테라사이언스</td>
+		<td style="mso-number-format:'@';text-align:center;">073640</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>최대주주 변경을 수반하는 주식양수도 계약 체결</td>
+		<td>테라사이언스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td style="mso-number-format:'@';text-align:center;">2023-04-19 16:19</td>
+ 
+	
+	
+		<td>일지테크</td>
+		<td style="mso-number-format:'@';text-align:center;">019540</td>
+	
+
+		<td>주권매매거래정지(영업양수도)</td>
+		<td>코스닥시장본부</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>
